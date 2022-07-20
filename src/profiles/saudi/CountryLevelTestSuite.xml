@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CountryLevelTestSuite">
+    <test name="CountryLevelTestSuite">
+        <classes>
+            <class id="location" name="saudi.SaudiLocation">
+                <methods>
+                    <exclude name="verifyStatusHistorySuccessfully"></exclude>
+                </methods>
+            </class>
+            <class id="idType" name="saudi.SaudiIdType"/>
+        </classes>
+    </test>
+</suite>

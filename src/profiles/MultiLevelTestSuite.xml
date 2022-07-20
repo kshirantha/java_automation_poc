@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="MultiLevelTestSuite">
+<test name="Automation">
+<classes>
+<class name="core.BaseTest" id="base">
+<methods>
+<exclude name=""/>
+</methods>
+</class>
+<class name="saudi.sfc.SfcLocation" id="location">
+<methods>
+<exclude name=""/>
+</methods>
+</class>
+<class name="core.CoreCity" id="city">
+<methods>
+<exclude name=""/>
+</methods>
+</class>
+<class name="saudi.SaudiIdType" id="idType">
+<methods>
+<exclude name=""/>
+</methods>
+</class>
+<class name="saudi.sfc.SfcDepartment" id="department">
+<methods>
+<exclude name=""/>
+</methods>
+</class>
+</classes>
+</test>
+</suite>

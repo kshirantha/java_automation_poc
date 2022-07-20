@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CoreLevelTestSuite">
+    <test name="CoreLevelTestSuite">
+        <classes>
+            <class id="base" name="core.BaseTest"/>
+            <class id="location" name="core.CoreLocation"/>
+            <class id="city" name="core.CoreCity"/>
+        </classes>
+    </test>
+</suite>

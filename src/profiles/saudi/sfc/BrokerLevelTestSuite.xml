@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BrokerLevelTestSuite">
+    <test name="BrokerLevelTestSuite">
+        <classes>
+            <class id="location" name="saudi.sfc.SfcLocation"/>
+            <class id="department" name="saudi.sfc.SfcDepartment"/>
+        </classes>
+    </test>
+</suite>
